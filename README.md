@@ -1,2 +1,6 @@
-# Ada
-Repository created for programming and development in the Ada language
+## Repository created for programming and development in the Ada language.
+![Ada](https://img.shields.io/badge/ada-8a29ed.svg?style=for-the-badge&logo=ada&logoColor=white)
+
+Este repositório é feito para aprimorar minhas habilidades em Ada, uma linguagem de programação robusta e segura, amplamente utilizada em sistemas críticos, como aviação, defesa e controle industrial. Ele aborda os principais fundamentos da linguagem, incluindo controle de concorrência, forte tipagem, programação modular e suporte para programação em tempo real. Além disso, explora como Ada facilita a criação de sistemas confiáveis e eficientes, destacando suas capacidades de verificação formal e segurança, sendo ideal para projetos onde a integridade e a precisão são cruciais.
+
+This repository is designed to enhance my skills in Ada, a robust and secure programming language widely used in critical systems such as aviation, defense, and industrial control. It covers the key fundamentals of the language, including concurrency control, strong typing, modular programming, and real-time programming support. Additionally, it explores how Ada facilitates the creation of reliable and efficient systems, highlighting its formal verification and safety capabilities, making it ideal for projects where integrity and precision are crucial.
