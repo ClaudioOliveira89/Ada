@@ -1,0 +1,2 @@
+peak_interface.adb:1:06: error: file "rp.ads" not found
+peak_interface.adb:2:06: error: file "pico.ads" not found

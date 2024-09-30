@@ -1,0 +1,5 @@
+factorial_numbers.adb:10:04: error: missing "with Ada.Long_Long_Integer_Text_IO;"
+factorial_numbers.adb:13:12: error: expected type "Standard.Long_Long_Float"
+factorial_numbers.adb:13:12: error: found type universal integer
+factorial_numbers.adb:15:11: error: expected type "Standard.Long_Long_Float"
+factorial_numbers.adb:15:11: error: found type universal integer

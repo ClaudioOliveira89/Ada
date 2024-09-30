@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__factorial_numbers.o
+[PROJECT FILES]
+C:\Users\claud\Documents\Git_Hub\Ada\default.gpr
+20240930005008 3f6bd9784cf6c13fb06e3c87dfaf3f5a
+[BOUND OBJECT FILES]
+C:\Users\claud\Documents\Git_Hub\Ada\obj\factorial_numbers.o
+[GENERATED SOURCE FILES]
+b__factorial_numbers.ads
+b__factorial_numbers.adb
+b__factorial_numbers.ali
+[RESULTING OPTIONS]
+-LC:\Users\claud\Documents\Git_Hub\Ada\obj\
+-LC:\Users\claud\Documents\Git_Hub\Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

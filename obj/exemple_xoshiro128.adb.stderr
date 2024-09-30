@@ -1,0 +1,4 @@
+exemple_xoshiro128.adb:3:48: error: no space allowed here
+exemple_xoshiro128.adb:7:30: error: protected declaration cannot be used as compilation unit
+exemple_xoshiro128.adb:11:08: warning: "Dependes" is not a valid aspect identifier [enabled by default]
+exemple_xoshiro128.adb:11:08: warning: possible misspelling of "depends" [enabled by default]
