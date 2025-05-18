@@ -1,5 +1,5 @@
 ## Repository created for programming and development in the Ada language.
-![Ada](https://img.shields.io/badge/ada-8a29ed.svg?style=for-the-badge&logo=ada&logoColor=white)
+![Ada](https://img.shields.io/badge/Ada-black?style=for-the-badge&logo=Ada&Color=25fafe)&nbsp;
 
 This repository was built to hone my skills in Ada, a strongly typed programming language widely used in critical systems such as aviation, defense, and industrial control. The goal is to address the core fundamentals of the language, including concurrency control, modular programming, and support for real-time programming. It also explores how Ada facilitates the creation of reliable and efficient systems, highlighting its formal verification and security capabilities, making it ideal for projects where integrity and accuracy are crucial and sensitive.
 
